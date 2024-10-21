@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Dicoding Event</string>
+    <string name="title_home">Home</string>
+    <string name="title_available">Event Available</string>
+    <string name="title_notavailable">Event Not Available</string>
+    <string name="summary">.</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="event_image">event_image</string>
+    <string name="judul_event">Judul Event</string>
+    <string name="dicoding_event">.</string>
+    <string name="tanggal">.</string>
+    <string name="quota">.</string>
+    <string name="remainingQouta">.</string>
+    <string name="register">Register</string>
+    <string name="judul">Judul</string>
+    <string name="penjelasan">Penjelasan</string>
+    <string name="description">Description</string>
+    <string name="title_event_detail">Detail Event</string>
+    <string name="summarytitle">.</string>
+    <string name="ownerName">.</string>
+    <string name="beginTime">.</string>
+    <string name="_2000_peserta">.</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="des">.</string>
+    <string name="seminar">.</string>
+    <string name="detail_acara">Detail Acara</string>
+</resources>
